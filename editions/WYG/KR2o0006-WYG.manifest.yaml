@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR2o0006_000-WYG.yaml, hash: 'sha256:759f0f2a3ecd42fdf855efa7a74edd49b2a0444f4e114549af75810c223d4bd4'}
   - {seq: 1, filename: KR2o0006_001-WYG.yaml, hash: 'sha256:613edc620055f496d0963f70169e02060f19319bc1568524fcb009da41a66117'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2o0006_000-WYG.markers.yaml, hash: 'sha256:7d3f329c8333875959db946d0aafe29441c08316163a879473646ae009c2c77a'}
+  - {seq: 0, role: markers, filename: assets/KR2o0006_000-WYG.markers.yaml, hash: 'sha256:cd05b1bd345cae3aca5dfe5b3e6e6c077a3324d8f0ecad13ad5aacf5042185f1'}
   - {seq: 1, role: markers, filename: assets/KR2o0006_001-WYG.markers.yaml, hash: 'sha256:489da9e4b26ea8c2d86349c373aef52a7004d3a54ccb0fb63c73e216468b57f8'}
 table_of_contents:
 - ref:
@@ -43,4 +43,4 @@ table_of_contents:
   label: 通鑑問疑
   type: section
   level: 1
-hash: sha256:67837d91f47372819d22818c5421f6f8d61cd89054f2d7faa084c78bb3115851
+hash: sha256:593d65859e0388ef2e2baf7aa832268ca2fdc1df937976d9038350ffce11f14e

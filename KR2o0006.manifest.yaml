@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR2o0006_000.yaml, hash: 'sha256:7fbd3d2f952f265f8142160ca0275054f46fa3e9e81e994954c588a8cca1f587'}
   - {seq: 1, filename: KR2o0006_001.yaml, hash: 'sha256:b4fbb1f414dcdda275125662eefa2670d426e72c8b5319454ee82351d56556b5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2o0006_000.markers.yaml, hash: 'sha256:9f460c67f786985284870e3c16e7bea673de41d8fcd327cfb7bcbd8924518501'}
+  - {seq: 0, role: markers, filename: assets/KR2o0006_000.markers.yaml, hash: 'sha256:cedbd6ac127044cd9c099f6b7594b531344150b88c98f6b7e375e3de0046eb22'}
   - {seq: 1, role: markers, filename: assets/KR2o0006_001.markers.yaml, hash: 'sha256:c38997d97d17e12a9d03b909c7c6a28aee54a139f9a5cf620850c0c14dfdb3f7'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 通鑑問疑
   type: section
   level: 1
-hash: sha256:56ffcccf8b8f68c00ec03ec3afc7e46e98ec708019f766ad973866251de30bee
+hash: sha256:458523e7c38be1c66182f5878581022c2c464e3d0773451abda4dda3b4a43dc6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
